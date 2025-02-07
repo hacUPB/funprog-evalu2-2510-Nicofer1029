@@ -163,3 +163,8 @@ Internamente, los datos se representan en **sistema binario** (utilizando 0s y 1
 
 ---
 
+## Mapa Conceptual de la Investigación
+
+A continuación se presenta un ejemplo de mapa conceptual que resume los temas investigados:
+
+![Mapa Conceptual](../funprog-evalu2-2510-Nicofer1029/Imagenes/graphviz.png)
