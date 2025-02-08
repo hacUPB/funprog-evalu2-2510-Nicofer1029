@@ -190,3 +190,18 @@ Se pueden representar $2^N$ estados usando $N$ bits.
 2. En la Figura 2 se plantea la pregunta sobre cuántos estados diferentes pueden representarse con $N$ variables binarias. Como se explicó anteriormente, cada bit tiene dos posibles valores: 0 o 1. Entonces, al combinar $N$ bits, la cantidad total de combinaciones posibles es $2^N$. Esto significa que si se utilizan más bits, se pueden representar más estados o valores diferentes.
 
 
+### 3. Unidades de almacenamiento
+
+| Unidad      | Símbolo | Prefijo | Equivalencia en bytes |
+|------------|---------|---------|----------------------|
+| Byte       | B       | -       | 8 bits               |
+| Kilobyte   | KB      | Kilo-   | 10³ |
+| Megabyte   | MB      | Mega-   | 10⁶ |
+| Gigabyte   | GB      | Giga-   | 10⁹ |
+| Terabyte   | TB      | Tera-   | 10¹² |
+| Petabyte   | PB      | Peta-   | 10¹⁵ |
+| Exabyte    | EB      | Exa-    | 10¹⁸ |
+
+### George Bool
+
+El trabajo de George Boole fue fundamental en la computación moderna, ya que desarrolló el álgebra booleana, un sistema matemático basado en la lógica binaria. Su teoría permitió la creación de circuitos lógicos en computadoras, donde los valores 0 y 1 se utilizan para realizar operaciones lógicas y aritméticas. Gracias a sus aportes, hoy en día es posible diseñar procesadores y sistemas digitales eficientes.
