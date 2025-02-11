@@ -178,7 +178,7 @@ A continuación se presenta un ejemplo de mapa conceptual que resume los temas i
 
 En la Figura 2 se muestran los diferentes estados que se pueden representar usando una palabra binaria de 3 bits. Responde la pregunta de la imagen: ¿Cuántos estados diferentes se pueden representar usando N bits?
 
-![Mapa Conceptual](../funprog-evalu2-2510-Nicofer1029/Imagenes/Ejercicio%201.png)
+![Figura 2](../funprog-evalu2-2510-Nicofer1029/Imagenes/Ejercicio%201.png)
 
 Se pueden representar $2^N$ estados usando $N$ bits.
 
@@ -205,3 +205,27 @@ Se pueden representar $2^N$ estados usando $N$ bits.
 ### George Bool
 
 El trabajo de George Boole fue fundamental en la computación moderna, ya que desarrolló el álgebra booleana, un sistema matemático basado en la lógica binaria. Su teoría permitió la creación de circuitos lógicos en computadoras, donde los valores 0 y 1 se utilizan para realizar operaciones lógicas y aritméticas. Gracias a sus aportes, hoy en día es posible diseñar procesadores y sistemas digitales eficientes.
+
+## Ejercicio 2
+
+
+
+
+
+## 3. Actividad de investigación (para la bitácora)
+
+| Tipo de Dato      | C            | Java      | Python   |
+|-------------------|--------------|-----------|----------|
+| Entero            | int          | int       | int      |
+| Byte              | x            | byte      | x        |
+| Short             | short        | short     | x        |
+| Long              | long         | long      | x        |
+| Long Long         | long long    | x         | x        |
+| Flotante          | float        | float     | float    |
+| Doble             | double       | double    | x        |
+| Carácter          | char         | char      | x        |
+| Booleano          | bool/_Bool   | boolean   | bool     |
+| Cadena de Texto   | x            | String    | str      |
+| Complejo          | x            | x         | complex  |
+
+
