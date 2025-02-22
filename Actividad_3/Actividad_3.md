@@ -19,3 +19,36 @@
 
 6. **Círculo → Conector**
 - Se usa para enlazar partes del diagrama cuando es necesario continuar el flujo en otra ubicación del mismo.
+
+## Ejercicio 2
+
+### Pseudocódigo
+
+![Ejercicio_2](../Actividad_3/Imagenes/Ejercicio_2.png)
+
+### Diagrama de flujo
+
+## Ejercicios para practicar
+
+1. ### Pseudocódigo
+
+![Lapices](../Actividad_3/Imagenes/Lapices.png)
+
+### Diagrama de flujo
+
+2. ### Pseudocódigo
+
+![Descuento](../Actividad_3/Imagenes/Descuento.png)
+
+### Diagrama de flujo
+
+3. ### Pseudocódigo
+
+![Viaje](../Actividad_3/Imagenes/Viaje.png)
+
+### Diagrama de flujo
+
+
+
+
+
