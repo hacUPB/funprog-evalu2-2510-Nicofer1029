@@ -68,3 +68,12 @@ El trabajo de George Boole fue fundamental en la computación moderna, ya que de
 | Booleano          | bool/_Bool   | boolean   | bool     |
 | Cadena de Texto   | x            | String    | str      |
 | Complejo          | x            | x         | complex  |
+
+## 5. Ejercicio de cálculo de espacio en memoria
+
+| Tipo de Dato      | Abreviación | Espacio que ocupa en Bytes|
+|-------------------|--------------|-----------|
+|Un identificador numérico (número entero) |int | 4B |
+| Una temperatura (valor de punto flotante) | float | 4B |
+| Un valor lógico (dato booleano) | Bool | 1B |
+| Un texto con 10 caracteres | string [10] | 10B |
