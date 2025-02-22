@@ -161,4 +161,4 @@ Internamente, los datos se representan en **sistema binario** (utilizando 0s y 1
 
 A continuación se presenta un ejemplo de mapa conceptual que resume los temas investigados:
 
-![Mapa Conceptual](../Actividad_1/Imagenes/Ejercicio%201.png)
+![Mapa Conceptual](../Actividad_1/Imagenes/Ejercicio_1.png)
