@@ -32,3 +32,39 @@ Se pueden representar $2^N$ estados usando $N$ bits.
 El trabajo de George Boole fue fundamental en la computación moderna, ya que desarrolló el álgebra booleana, un sistema matemático basado en la lógica binaria. Su teoría permitió la creación de circuitos lógicos en computadoras, donde los valores 0 y 1 se utilizan para realizar operaciones lógicas y aritméticas. Gracias a sus aportes, hoy en día es posible diseñar procesadores y sistemas digitales eficientes.
 
 ![George Bool](../Actividad_2/Imagenes/Ejercicio_2.1.png)
+
+# Sistemas numércos
+
+## Ejercicio 2 - Resuelve y deja evidencia en la bitácora
+
+- $1010101010_2$
+- $11111_2$
+- $10000000_2$
+- $100100100_2$
+
+## Ejercicio 2 - Resuelve y deja evidencia en la bitácora
+
+- $127_{10}$
+- $246_{10}$
+- $1025_{10}$
+- $354_{10}$
+
+
+# Tipos de datos
+
+
+## 3 y 4. Actividad de investigación (para la bitácora)
+
+| Tipo de Dato      | C            | Java      | Python   |
+|-------------------|--------------|-----------|----------|
+| Entero            | int          | int       | int      |
+| Byte              | x            | byte      | x        |
+| Short             | short        | short     | x        |
+| Long              | long         | long      | x        |
+| Long Long         | long long    | x         | x        |
+| Flotante          | float        | float     | float    |
+| Doble             | double       | double    | x        |
+| Carácter          | char         | char      | x        |
+| Booleano          | bool/_Bool   | boolean   | bool     |
+| Cadena de Texto   | x            | String    | str      |
+| Complejo          | x            | x         | complex  |
