@@ -1,11 +1,5 @@
 # Actividad 1: El Computador Digital Moderno
 
-## Introducción
-
-En este documento se presenta una investigación sobre los conceptos fundamentales de un computador, sus arquitecturas, componentes de hardware y software, y el proceso de funcionamiento desde el encendido hasta la ejecución de operaciones. Se incluyen definiciones oficiales, ejemplos, diagramas y referencias bibliográficas de fuentes confiables.
-
----
-
 ## 1. ¿Qué es un computador?
 
 Un **computador** es un dispositivo electrónico capaz de recibir, procesar y almacenar información mediante la ejecución de instrucciones programadas. En términos oficiales, la definición puede encontrarse en documentos de organismos de estandarización como el IEEE:
@@ -13,18 +7,11 @@ Un **computador** es un dispositivo electrónico capaz de recibir, procesar y al
 > *"Un computador es un sistema electrónico que manipula datos según un conjunto de instrucciones definidas, permitiendo almacenar, procesar y recuperar información de forma automatizada."*  
 > — *IEEE Standard Dictionary of Electrical and Electronics Terms, IEEE Std 100-2004.*
 
-Otra definición complementaria es la de Stallings (2009):
-
-> *"Un computador es una máquina que realiza operaciones aritméticas y lógicas sobre datos, guiado por un conjunto de instrucciones que definen su comportamiento."*  
-> — Stallings, W. (2009). **Computer Organization and Architecture: Designing for Performance.**
-
 ---
 
 ## 2. Arquitecturas de un Computador
 
-### Definición General
-
-La **arquitectura de un computador** se refiere a la estructura y diseño fundamental de un sistema informático, abarcando la interconexión de sus componentes (CPU, memoria, dispositivos de E/S, etc.) y la forma en que se comunican para ejecutar programas.
+La arquitectura de un computador se refiere a la estructura y diseño fundamental de un sistema informático, abarcando la interconexión de sus componentes (CPU, memoria, dispositivos de E/S, etc.) y la forma en que se comunican para ejecutar programas.
 
 ### 2.1 Arquitectura CISC (Complex Instruction Set Computer)
 
@@ -50,11 +37,10 @@ La **arquitectura de un computador** se refiere a la estructura y diseño fundam
 - **Referencia:**  
   Patterson, D. A., & Hennessy, J. L. (2005). *Computer Organization and Design: The Hardware/Software Interface.*
 
----
 
 ## 3. ¿Qué es el Hardware?
 
-El **hardware** comprende los componentes físicos que integran un sistema informático. A continuación, se detallan los elementos más relevantes:
+El hardware comprende los componentes físicos que integran un sistema informático. A continuación, se detallan los elementos más relevantes:
 
 ### 3.1 CPU (Unidad Central de Procesamiento)
 
@@ -85,7 +71,7 @@ El **hardware** comprende los componentes físicos que integran un sistema infor
 - **Memoria Secundaria:**  
   Dispositivos de almacenamiento a largo plazo, como discos duros y unidades de estado sólido (SSD).
 
-### 3.3 Dispositivos de Entrada/Salida (E/S)
+### 3.3 Dispositivos de Entrada/Salida
 
 Son dispositivos que permiten la interacción entre el usuario y la computadora, tales como:
 - **Entrada:** Teclado, ratón, micrófono, escáner.
