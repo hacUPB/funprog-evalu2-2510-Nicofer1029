@@ -187,3 +187,51 @@ Algoritmo Articulos
 	Escribir "El precio total de los articulos es: $" precio_total
 FinAlgoritmo
 ```
+
+## Reto 9
+
+### Pseudocódigo
+```
+Algoritmo Funcion_exponencial
+    Escribir "Ingrese el valor de x:"
+    Leer x
+    Escribir "Ingrese el número de términos n:"
+    Leer n
+    resultado <- 1
+    Para i <- 1 Hasta n Hacer
+        potencia <- 1
+        factorial <- 1
+        Para j <- 1 Hasta i Hacer
+            potencia <- potencia * x
+            factorial <- factorial * j
+        FinPara
+        resultado <- resultado + (potencia / factorial)
+    FinPara
+    Escribir "El valor aproximado de e^x es: " resultado
+FinAlgoritmo
+```
+
+## Reto 10
+
+### Pseudocódigo
+```
+Algoritmo Funcion_esponencial_seno_del_angulo
+    Escribir "Ingrese el valor de x en radianes:"
+    Leer x
+    Escribir "Ingrese el número de términos n:"
+    Leer n
+    resultado <- 0
+    signo <- 1
+    Para i <- 1 Hasta (2*n-1) Con Paso 2 Hacer
+        potencia <- 1
+        factorial <- 1
+        Para j <- 1 Hasta i Hacer
+            potencia <- potencia * x
+            factorial <- factorial * j
+        FinPara
+        resultado <- resultado + (signo * (potencia / factorial))
+        signo <- signo * (-1)
+    FinPara	
+    Escribir "El valor aproximado de sin(x) es: " resultado
+FinAlgoritmo
+```
