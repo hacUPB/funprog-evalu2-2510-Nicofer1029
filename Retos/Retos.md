@@ -41,7 +41,7 @@ FinAlgoritmo
 
 ### Diagrama de flujo
 
-
+![Diagrama_de_flujo](../Retos/Imagenes/Diagrama_de_flujo_Pitagoras.png)
 
 ### Pseudocódigo
 ```
