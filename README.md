@@ -8,9 +8,10 @@ Id.: 000579043
 
 
 
-| Tabla de contenido |
-|--------------|
-| [Actividad_1]("C:\Users\nicof\Documents\Fun_Prog\Unidad_2\funprog-evalu2-2510-Nicofer1029\Actividad_1") |
-| [Actividad_2]("C:\Users\nicof\Documents\Fun_Prog\Unidad_2\funprog-evalu2-2510-Nicofer1029\Actividad_2") |
-| [Actividad_3]("C:\Users\nicof\Documents\Fun_Prog\Unidad_2\funprog-evalu2-2510-Nicofer1029\Actividad_3") |
-| [Actividad_4]("C:\Users\nicof\Documents\Fun_Prog\Unidad_2\funprog-evalu2-2510-Nicofer1029\Actividad_4") |
+## Tabla de contenido
+
+- [Actividad_1](../funprog-evalu2-2510-Nicofer1029/Actividad_1/Actividad_1.md)
+- [Actividad_2](../funprog-evalu2-2510-Nicofer1029/Actividad_2/Actividad_2.md)
+- [Actividad_3](../funprog-evalu2-2510-Nicofer1029/Actividad_3/Actividad_3.md)
+- [Actividad_4](../funprog-evalu2-2510-Nicofer1029/Actividad_4/Actividad_4.md)
+- [Retos](../funprog-evalu2-2510-Nicofer1029/Retos/Retos.md)
